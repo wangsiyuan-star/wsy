@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[18]:
-
 
 #code:utf_8
 
@@ -26,10 +21,6 @@ def print_fibonacci(n):
     for i in range(n):    #使用next()输出斐波那契数列
         print(next(f),end = ' ')    
 
-        
-
-
-# In[19]:
 
 
 print_fibonacci(10)
