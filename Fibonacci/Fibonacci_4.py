@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[26]:
-
 
 #code:utf-8
 """王思媛 20201028
@@ -22,10 +17,5 @@ def fibonacci(n):    #定义斐波那契函数，n表述输出斐波那契的前
     print(fib)
         
     
-
-
-# In[27]:
-
-
 fibonacci(10)
 
