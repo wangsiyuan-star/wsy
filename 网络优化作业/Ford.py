@@ -67,10 +67,6 @@ def print_path(mark_mat,weight):
         print(f"总路长是{weight[i]}")
 
 
-# In[4]:
-
-
 mark_mat,weight =ford(origin_mat)
-
 print_path(mark_mat,weight)
 
