@@ -56,8 +56,6 @@ def dijkstra(origin_mat):
         print("输入有误！")
 
 
-# In[107]:
-
 
 dijkstra(origin_mat)
 
