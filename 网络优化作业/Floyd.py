@@ -38,8 +38,6 @@ def floyd(origin_mat):
     
 
 
-# In[3]:
-
 
 floyd(origin_mat)
 
